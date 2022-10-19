@@ -9,6 +9,7 @@
 # Table of Contents
 
 ## Week 1 - Python Fundamentals
+- making a change here
 - [Session 1](https://github.com/Python-InstructorMelissa/JulyAug22PythonCohort/tree/main/lectures/week1/session1)
 - [Session 2](https://github.com/Python-InstructorMelissa/JulyAug22PythonCohort/tree/main/lectures/week1/session2)
 
